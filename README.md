@@ -28,7 +28,7 @@ Ce projet implémente un modèle d'optimisation de portefeuille basé sur la th�
 1. Clonez le repository :
 
 ```bash
-git clone [URL_DU_REPO]
+git clone https://github.com/AaronTrading/Risk-Return-Wallet
 cd risk_return_optimizer
 ```
 
